@@ -27,16 +27,16 @@ Both models were evaluated on the Pascal VOC 2012 validation set, using a unifie
 
 ### Result Summary
 | Metric                  | First Experiment | Second Experiment |
-| ----------------------- | ---------------- | ----------------- |
-| mAP\@0.5                | 0.6234           | **0.7312**        |
-| mAP\@0.5:0.95           | 0.4239           | **0.5127**        |
-| Detection Accuracy      | 0.5521           | **0.6342**        |
-| Classification Accuracy | 0.5933           | **0.6911**        |
-| Precision               | 0.5872           | **0.6512**        |
-| Recall                  | 0.5389           | **0.6098**        |
-| F1 Score                | 0.5620           | **0.6298**        |
-| Mean IoU                | 0.4723           | **0.5472**        |
-| Evaluated Detections    | 295              | 295               |
+| ----------------------- |------------------|---------------|
+| mAP\@0.5                | **0.7109**       | **0.7109**    |
+| mAP\@0.5:0.95           | 0.5176           | **0.5177**    |
+| Detection Accuracy      | 0.5617           | **0.5776**    |
+| Classification Accuracy | **0.8133**       | 0.7139        |
+| Precision               | **0.8133**       | 0.7139        |
+| Recall                  | 0.6448           | **0.7516**    |
+| F1 Score                | 0.7193           | **0.7323**    |
+| Mean IoU                | **0.8704**       | 0.8359        |
+| Evaluated Detections    | 295              | 295           |
 
 
 ### Conclusion
